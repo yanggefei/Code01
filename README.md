@@ -26,5 +26,5 @@
 ### }
 
 ## 测试截图
-![alt](photo1.png)
-![alt](photo2.png)
+![alt](code01\photo1.png)
+![alt](code01\photo2.png)
