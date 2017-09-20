@@ -27,5 +27,5 @@
 ### }
 
 ## 测试截图
-![](https://github.com/yanggefei/Code01/raw/master/image/photo1.png)  
-![](https://github.com/yanggefei/Code01/raw/master/image/photo2.png)  
+![](https://github.com/yanggefei/Code01/raw/master/photo1.png)  
+![](https://github.com/yanggefei/Code01/raw/master/photo2.png)  
